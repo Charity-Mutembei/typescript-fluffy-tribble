@@ -74,3 +74,29 @@ This is the type that is used to tell the compiler that you dont know what the h
 It seemly doesn't check and it allows it to be as everything and anything at the same time. 
 
 Its advantage is that you can use ```type any``` to escape errors because there is no commitment dictated on the variables ```just like you and your spouse```
+
+#### Type: unknown
+Well, like you can guess it, there is a thin line between ```type any ``` and ```type unknown``` perhaps just the level of honesty you have in and with your code. 
+
+```You want to adapt some into your relationship as well. I must admit that it does give some sense of honour in your confused attachement and commitment styles``` 
+I am not here to judge! 
+
+Anyways, unlike you, Typescript does not allow the variables with ```type unknown``` to be used.
+
+```Be like typescript my friend.```
+
+### Type: never
+```This is what you would consider as standards if you had any```
+
+```Type never``` simply tells Typescript to never allow the variable given the type never.
+
+It will even throw in an error for a little razzle dazzle. 
+
+But this one is rarely used. Just in advanced generics.
+
+```I hope that makes you feel nice and less under pressure```
+
+#### Type: undefined & null
+These two types are primitive to Javascript. However, the bottom line is that they are useless uless ```strictNullChecks``` is enabled in the ```tsconfig.json``` file.
+
+### TypeScript Arrays
