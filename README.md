@@ -65,3 +65,12 @@ Just go to your ```tsconfig.json``` file
 Then disable the implicit option by enabling the ```noImplicitAny``` command. 
 
 ```Of course this is dependent in your taste of code just as you have in a spouse. Heehehe!```
+
+For you that likes uncertainty, lets talk about ```Type: any```
+
+#### Type: any
+This is the type that is used to tell the compiler that you dont know what the hell you are doing. Therefore, like the same way you dont wanna know what you are doing with that partner of yours, ```type any``` tells the compiler not to bother knowing the type of variable. 
+
+It seemly doesn't check and it allows it to be as everything and anything at the same time. 
+
+Its advantage is that you can use ```type any``` to escape errors because there is no commitment dictated on the variables ```just like you and your spouse```
